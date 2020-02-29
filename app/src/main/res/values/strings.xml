@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Gestion_pointage_journalier</string>
+    <string name="app_matricule">Matricule</string>
+    <string name="app_btn_ajouter">Ajouter</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="app_supprimer">Effacer</string>
+</resources>
